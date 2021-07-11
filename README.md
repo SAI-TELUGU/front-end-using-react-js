@@ -37,6 +37,6 @@ I want to become a full stack developer in mnc
 ### **StrengthWeakness**
 - Hardworking
 - Confident
-- Logical Thinking
-Projects :
+- Logical Thinking<br>
+### **Projects** :
 - Dispatch Management System
